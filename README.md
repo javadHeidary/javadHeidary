@@ -6,7 +6,7 @@
 - ⚡ **Fun fact:** Besides app development, I'm passionate about deep learning and maintaining a healthy lifestyle. My ultimate goal is continuous improvement.
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&color=F7F7F7&multiline=true&width=435&lines=About+Me" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 I am a Flutter developer with over a year of experience, focusing on creating beautiful, user-friendly applications. I enjoy working with advanced tools and principles like BLoC state management and Clean Architecture.  
 

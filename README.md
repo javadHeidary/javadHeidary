@@ -29,8 +29,10 @@ I am a Flutter developer with over a year of experience, focusing on creating be
 
 ---
 
-💡 **Ultimate Goal:** To achieve international job opportunities and work with professional teams within the next 5 years.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadHeidary&show_icons=true&theme=transparent)
 <img align="right" alt="javad" with="200" height="200" src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif" >
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javadHeidary&theme=react-dark)](https://github.com/javadHeidary/github-readme-activity-graph)
+
+
+💡 **Ultimate Goal:** To achieve international job opportunities and work with professional teams within the next 5 years.
+

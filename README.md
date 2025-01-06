@@ -23,8 +23,8 @@ I am a Flutter developer with over a year of experience, focusing on creating be
 
 
 ## Highlighted Projects
-1. **E-commerce App:** Developed an online store app with multi-layered architecture.  
-2. **"Aviz" Project:** A nearly completed advertisement-focused project.  
+1. **[E-commerce App](https://github.com/javadHeidary/Ecommerce_project_apple_shope):** Developed an online store app with multi-layered architecture.  
+2. **["Aviz" Project:](https://github.com/javadHeidary/Aviz-project)** A nearly completed advertisement-focused project.  
 3. **Instagram-like App:** Designed a UI for an app similar to Instagram.  
 
 ---
